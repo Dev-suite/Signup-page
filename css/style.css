@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: auto;
+    padding-top: 10px;
+    height: 150vh;
+    background-color: #e2dff2;
+}
+
+#first {
+    width: 375px;
+    height: 761px;
+    background-image: linear-gradient(154deg, #24246f 0%, #141455 100%);
+    border-radius: 20px 0px 0px 20px;
+}
+
+#second {
+    width: 965px;
+    height: 761px;
+    box-shadow: 0 10px 20px rgba(25, 25, 93, 0.1);
+    border-radius:  0px 20px 20px 0px;
+    background-color: #f6f5fc;
+}
+
+.img img {
+    margin-top: 40px;
+    background-color: #ffffff;
+}
+
+.content {
+    width: 300px;
+    height: 145px;
+    color: #ffffff;
+    font-family: Muli;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 35px;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.con {
+    width: 286px;
+    height: 103px;
+    color: #ffffff;
+    font-family: Muli;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-left: 30px;
+}
+
+#second .head h3 {
+    width: 172px;
+    height: 39px;
+    color: #10103e;
+    font-family: "Helvetica Neue";
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 130px;
+    margin-left: 70px;
+}
+
+.box {
+    width: 396px;
+    height: 104px;
+    box-shadow: 0 5px 10px #e2dff2;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-top: 80px;
+    margin-left: 70px;
+}
+
+.box i {
+    color: rgb(224, 218, 218);
+    font-size: 30px;
+    padding-left: 40px;
+    padding-top: 35px;
+}
+
+
+.box1 {
+    width: 396px;
+    height: 104px;
+    box-shadow: 0 5px 10px #e2dff2;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-left: 70px;
+}
+
+.box1 i{
+    font-size: 30px;
+    padding-left: 40px;
+    padding-top: 35px;
+    color: rgb(140, 140, 224);
+}
+
+.box2 {
+    width: 396px;
+    height: 104px;
+    box-shadow: 0 5px 10px #e2dff2;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-left: 70px;
+}
+
+.box2 i{
+    font-size: 30px;
+    padding-left: 40px;
+    padding-top: 35px;
+    color: rgb(189, 189, 216);
+}
+
+.lo{
+    margin-left: 70px;
+}
+
+.lo a{
+    text-decoration: none;
+}
